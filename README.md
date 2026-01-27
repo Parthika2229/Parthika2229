@@ -1,5 +1,7 @@
 ## Hey, I’m Parthika 👋
 
+Data Science grad student in the **United States**, currently at **MarketMakerCRE** as a **Data Scientist Intern**.  
+
 I build data things that actually get used.
 
 Most of my work lives around **Python, SQL, and ETL pipelines**, cleaning messy data, validating it, automating workflows, and turning it into insights teams can trust.
