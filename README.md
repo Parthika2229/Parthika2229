@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I’m Parthika 👋
 
-<!--
-**Parthika2229/Parthika2229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data things that actually get used.
 
-Here are some ideas to get you started:
+Most of my work lives around **Python, SQL, and ETL pipelines**, cleaning messy data, validating it, automating workflows, and turning it into insights teams can trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+Python · SQL · Pandas · PySpark  
+PostgreSQL · SQL Server · AWS (S3, Redshift)  
+Power BI · Tableau · Streamlit  
+APIs · Docker · Git · Linux basics  
+scikit-learn · NLP · LLM-based workflows  
+
+### What I care about
+- Reliable data pipelines (not just quick scripts)  
+- Clean, standardized datasets  
+- Bridging analytics and data engineering work  
+
+### Why this GitHub exists
+To show **how I approach problems**, **how I structure data**, and **how I build end-to-end solutions**.
+
+📫 Let’s connect  
+🔗 LinkedIn: https://www.linkedin.com/in/parthikabattala/
