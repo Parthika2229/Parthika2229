@@ -29,4 +29,5 @@ Deploy production-ready APIs and data tools using Flask and Render
 📫 Let's Connect
 🔗 LinkedIn: linkedin.com/in/parthikabattala
 📧 Email: parthikabattala@gmail.com
+
 ⭐️ Open to Data Science, AI Engineering, and Machine Learning roles
